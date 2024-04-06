@@ -7,7 +7,7 @@ JavaScript ek web development language hai jo websites ko interactive banane ke 
 # variables and data types
 Variables JavaScript mein values ko store karne ke liye use hoti hain. Har variable ek naam se identify hoti hai. Data types determine karte hain ki variable mein kis tarah ki value store hogi.
 
-1. String
+1. String:\n
 String ek series of characters hai, jo single quotes (' ') ya double quotes (" ") mein hoti hai.
 Example:
 ```javascript
